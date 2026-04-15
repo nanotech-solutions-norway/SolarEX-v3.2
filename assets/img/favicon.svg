@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="SolarEX icon">
+  <rect width="128" height="128" fill="#000000"/>
+  <g transform="translate(64 64) rotate(45)">
+    <rect x="-40" y="-40" width="34" height="34" fill="#11b221"/>
+    <rect x="6" y="-40" width="34" height="34" fill="#6be475"/>
+    <rect x="-17" y="6" width="34" height="34" fill="#19da2c"/>
+    <rect x="29" y="6" width="34" height="34" fill="#40e24e"/>
+  </g>
+</svg>
